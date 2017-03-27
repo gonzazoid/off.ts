@@ -1,0 +1,9 @@
+{
+  "name": "off.ts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "off.ts",
+  "types": "off.ts",
+  "author": "Timur Appaev",
+  "license": "MIT",
+}
